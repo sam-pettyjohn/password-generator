@@ -20,7 +20,7 @@ function generatePassword() {
   }
   alert("Generated password will have " + promptLength + " characters.");
   var promptLowercase = confirm("Should password include lowercase letters? Example: asdf");
-  var promptUppercase = confirm("Okay. Should password uppercase letters? Example: ASDF");
+  var promptUppercase = confirm("Okay. Should password include uppercase letters? Example: ASDF");
   var promptNumerical = confirm("Understood. Should password include numerical characters? Example: 1, 2, 3, 4");
   var promptSpecial = confirm("Got it. Finally, should password include special characters? Example: !, @, #, $");
 
