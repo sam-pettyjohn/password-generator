@@ -24,5 +24,5 @@ https://sam-pettyjohn.github.io/password-generator/
 - HTML
 - CSS
 
-## Contribution
+
 Made with ❤️ by Sam Pettyjohn
